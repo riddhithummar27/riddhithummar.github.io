@@ -56,8 +56,9 @@ img {
 }
 /* NAVBAR */
 .navbar {
-    background: #333;
+    background: #222;   /* dark background */
     padding: 15px;
+    width: 100%;
 }
 
 .navbar ul {
@@ -71,7 +72,7 @@ img {
 
 .navbar a {
     text-decoration: none;
-    color: white;
+    color: white;     /* white text */
     font-weight: bold;
     font-size: 18px;
     transition: 0.3s;
@@ -80,4 +81,5 @@ img {
 .navbar a:hover {
     color: #ff69b4; /* pink hover */
 }
+
 
